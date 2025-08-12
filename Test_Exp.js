@@ -107,6 +107,11 @@ psychoJS.start({
     {'name': 'Part 3.xlsx', 'path': 'Part 3.xlsx'},
     {'name': 'Part 4 .xlsx', 'path': 'Part 4 .xlsx'},
     {'name': 'default.png', 'path': 'https://pavlovia.org/assets/default/default.png'},
+    {'name': 'Part 4 .xlsx', 'path': 'Part 4 .xlsx'},
+    {'name': 'Part 3.xlsx', 'path': 'Part 3.xlsx'},
+    {'name': 'Part 2.xlsx', 'path': 'Part 2.xlsx'},
+    {'name': 'Part_1.xlsx', 'path': 'Part_1.xlsx'},
+    {'name': 'Training Book.xlsx', 'path': 'Training Book.xlsx'},
   ]
 });
 
