@@ -1504,7 +1504,7 @@ function TrainingLoopBegin(TrainingLoopScheduler, snapshot) {
       psychoJS: psychoJS,
       nReps: 1, method: TrialHandler.Method.RANDOM,
       extraInfo: expInfo, originPath: undefined,
-      trialList: 'resources/Training Book.xlsx',
+      trialList: 'already uploaded/Training_Book.xlsx',
       seed: undefined, name: 'Training'
     });
     psychoJS.experiment.addLoop(Training); // add the loop to the experiment
@@ -1568,7 +1568,7 @@ function trialsLoopBegin(trialsLoopScheduler, snapshot) {
       psychoJS: psychoJS,
       nReps: 1, method: TrialHandler.Method.RANDOM,
       extraInfo: expInfo, originPath: undefined,
-      trialList: 'resources/Part_1.xlsx',
+      trialList: 'already uploaded/Part_1.xlsx',
       seed: undefined, name: 'trials'
     });
     psychoJS.experiment.addLoop(trials); // add the loop to the experiment
@@ -1632,7 +1632,7 @@ function trials_2LoopBegin(trials_2LoopScheduler, snapshot) {
       psychoJS: psychoJS,
       nReps: 1, method: TrialHandler.Method.RANDOM,
       extraInfo: expInfo, originPath: undefined,
-      trialList: 'resources/Part 2.xlsx',
+      trialList: 'already uploaded/Part_2.xlsx',
       seed: undefined, name: 'trials_2'
     });
     psychoJS.experiment.addLoop(trials_2); // add the loop to the experiment
@@ -1696,7 +1696,7 @@ function trials_3LoopBegin(trials_3LoopScheduler, snapshot) {
       psychoJS: psychoJS,
       nReps: 1, method: TrialHandler.Method.RANDOM,
       extraInfo: expInfo, originPath: undefined,
-      trialList: 'resources/Part 3.xlsx',
+      trialList: 'already uploaded/Part_3.xlsx',
       seed: undefined, name: 'trials_3'
     });
     psychoJS.experiment.addLoop(trials_3); // add the loop to the experiment
@@ -1760,7 +1760,7 @@ function trials_4LoopBegin(trials_4LoopScheduler, snapshot) {
       psychoJS: psychoJS,
       nReps: 1, method: TrialHandler.Method.RANDOM,
       extraInfo: expInfo, originPath: undefined,
-      trialList: 'resources/Part 4 .xlsx',
+      trialList: 'already uploaded/Part_4 .xlsx',
       seed: undefined, name: 'trials_4'
     });
     psychoJS.experiment.addLoop(trials_4); // add the loop to the experiment
