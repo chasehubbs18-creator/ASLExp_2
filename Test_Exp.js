@@ -102,11 +102,11 @@ psychoJS.start({
   resources: [
     // resources:
     {'name': 'default.png', 'path': 'https://pavlovia.org/assets/default/default.png'},
-    {'name': 'New Folder With Items/Part 2.xlsx', 'path': 'New Folder With Items/Part 2.xlsx'},
-    {'name': 'New Folder With Items/Part 3.xlsx', 'path': 'New Folder With Items/Part 3.xlsx'},
-    {'name': 'New Folder With Items/Part 4 .xlsx', 'path': 'New Folder With Items/Part 4 .xlsx'},
     {'name': 'New Folder With Items/Part_1.xlsx', 'path': 'New Folder With Items/Part_1.xlsx'},
-    {'name': 'New Folder With Items/Training Book.xlsx', 'path': 'New Folder With Items/Training Book.xlsx'},
+    {'name': 'New Folder With Items/Part_2.xlsx', 'path': 'New Folder With Items/Part_2.xlsx'},
+    {'name': 'New Folder With Items/Part_3.xlsx', 'path': 'New Folder With Items/Part_3.xlsx'},
+    {'name': 'New Folder With Items/Part_4 .xlsx', 'path': 'New Folder With Items/Part_4 .xlsx'},
+    {'name': 'New Folder With Items/Training_Book.xlsx', 'path': 'New Folder With Items/Training_Book.xlsx'},
     {'name': 'already uploaded/1_ulnar.PNG', 'path': 'already uploaded/1_ulnar.PNG'},
     {'name': 'already uploaded/1.PNG', 'path': 'already uploaded/1.PNG'},
     {'name': 'already uploaded/3.PNG', 'path': 'already uploaded/3.PNG'},
