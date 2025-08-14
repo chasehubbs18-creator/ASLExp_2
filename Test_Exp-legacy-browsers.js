@@ -3611,7 +3611,7 @@ function TrainingLoopBegin(TrainingLoopScheduler, snapshot) {
     // set up handler to look after randomisation of conditions etc
     Training = new TrialHandler({
       psychoJS: psychoJS,
-      nReps: 1, method: TrialHandler.Method.RANDOM,
+      nReps: 1, method: TrialHandler.Method.SEQUENTIAL,
       extraInfo: expInfo, originPath: undefined,
       trialList: 'Training_Book.xlsx',
       seed: undefined, name: 'Training'
@@ -3675,7 +3675,7 @@ function trialsLoopBegin(trialsLoopScheduler, snapshot) {
     // set up handler to look after randomisation of conditions etc
     trials = new TrialHandler({
       psychoJS: psychoJS,
-      nReps: 1, method: TrialHandler.Method.RANDOM,
+      nReps: 1, method: TrialHandler.Method.SEQUENTIAL,
       extraInfo: expInfo, originPath: undefined,
       trialList: 'Part_1.xlsx',
       seed: undefined, name: 'trials'
@@ -3739,7 +3739,7 @@ function trials_2LoopBegin(trials_2LoopScheduler, snapshot) {
     // set up handler to look after randomisation of conditions etc
     trials_2 = new TrialHandler({
       psychoJS: psychoJS,
-      nReps: 1, method: TrialHandler.Method.RANDOM,
+      nReps: 1, method: TrialHandler.Method.SEQUENTIAL,
       extraInfo: expInfo, originPath: undefined,
       trialList: 'Part_2.xlsx',
       seed: undefined, name: 'trials_2'
@@ -3803,7 +3803,7 @@ function trials_3LoopBegin(trials_3LoopScheduler, snapshot) {
     // set up handler to look after randomisation of conditions etc
     trials_3 = new TrialHandler({
       psychoJS: psychoJS,
-      nReps: 1, method: TrialHandler.Method.RANDOM,
+      nReps: 1, method: TrialHandler.Method.SEQUENTIAL,
       extraInfo: expInfo, originPath: undefined,
       trialList: 'Part_3.xlsx',
       seed: undefined, name: 'trials_3'
@@ -3867,7 +3867,7 @@ function trials_4LoopBegin(trials_4LoopScheduler, snapshot) {
     // set up handler to look after randomisation of conditions etc
     trials_4 = new TrialHandler({
       psychoJS: psychoJS,
-      nReps: 1, method: TrialHandler.Method.RANDOM,
+      nReps: 1, method: TrialHandler.Method.SEQUENTIAL,
       extraInfo: expInfo, originPath: undefined,
       trialList: 'Part_4 .xlsx',
       seed: undefined, name: 'trials_4'
