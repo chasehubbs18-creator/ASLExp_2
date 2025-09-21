@@ -18,4 +18,4 @@ jobs:
         df -h
     - name: Build the CUDA Docker image
       run: docker build . --file Dockerfile-CUDA --tag wav2letter/wav2letter:cuda-latest
-    - name: Docker login
+
